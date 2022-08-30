@@ -1,0 +1,6 @@
+why and how to use protected visibility in python?
+----------------------------------------------------
+Attributes and Methods Can Be Accessed From Within The Class And Sub Classes
+Attributes and Methods Prefixed With One Underscore _
+-------------
+name:mohamed ahmed mahmoud farag
